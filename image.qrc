@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/PNG/Cancel.down.png</file>
+        <file>image/PNG/Cancel.nor.png</file>
+        <file>image/PNG/Cancel.sel.png</file>
+        <file>image/PNG/main.ico</file>
+        <file>image/PNG/Zuidahua.down.png</file>
+        <file>image/PNG/Zuidahua.nor.png</file>
+        <file>image/PNG/Zuidahua.sel.png</file>
+        <file>image/PNG/Zuidahua_t.nor.png</file>
+        <file>image/PNG/Zuixiaohua.down.png</file>
+        <file>image/PNG/Zuixiaohua.nor.png</file>
+        <file>image/PNG/Zuixiaohua.sel.png</file>
+        <file>image/PNG/face.png</file>
+        <file>image/arrowdown.png</file>
+        <file>image/background.png</file>
+        <file>image/face.jpg</file>
+        <file>image/facehh.jpg</file>
+        <file>image/PNG/Zuidahua_t.down.png</file>
+    </qresource>
+</RCC>
